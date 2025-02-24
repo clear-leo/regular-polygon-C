@@ -6,8 +6,8 @@
 #define WIDTH 1200
 #define HEIGHT 800
 
-#define SIDES 10
-#define LENGTH 250
+const unsigned int SIDES = 5;
+const unsigned int LENGTH = 250;
 
 SDL_FPoint createFpoint(double x, double y);
 

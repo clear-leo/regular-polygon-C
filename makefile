@@ -1,5 +1,5 @@
-CC = clang
-CFLAGS = -Wall -Wextra
+CC = cc
+CFLAGS = -Wall
 SDL2 = -I/usr/include/SDL2 -D_REENTRANT -lSDL2
 
 release: main.o window.o
