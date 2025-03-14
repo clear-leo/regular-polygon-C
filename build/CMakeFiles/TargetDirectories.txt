@@ -1,0 +1,4 @@
+/home/clearleo/projects/brainfuck/build/CMakeFiles/window.dir
+/home/clearleo/projects/brainfuck/build/CMakeFiles/main.dir
+/home/clearleo/projects/brainfuck/build/CMakeFiles/edit_cache.dir
+/home/clearleo/projects/brainfuck/build/CMakeFiles/rebuild_cache.dir
