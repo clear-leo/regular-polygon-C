@@ -31,7 +31,12 @@ mkdir build
 Enter the build folder and run
 
 ```sh
+cmake ..
+```
+Then
+```sh
 cmake --build .
 ```
+
 </ol>
 There will be an executable called polygon in the build folder after that.
