@@ -1,5 +1,6 @@
 # Project details
-This is a simple program that generates a regular polygon of any quantity of sides and any lenght of radius. (indicated in main.c, the variables SIDES and LENGTH) <br>
+This is a simple program that generates a regular polygon of any quantity of sides. <br>
+You can control the amount of sides by pressing up arrow or down arrow.
 ___
 
 # Build guide
@@ -30,12 +31,7 @@ mkdir build
 Enter the build folder and run
 
 ```sh
-cmake ..
-```
-Then
-
-```sh
-make
+cmake --build .
 ```
 </ol>
-There will be an executable called main in the build folder after that.
+There will be an executable called polygon in the build folder after that.
